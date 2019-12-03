@@ -1,3 +1,3 @@
 # AppSecAssignment-5
 
-Code, used on Andriod Studio, was provided by Rahul to complete assignment
+Code, used on Android Studio, was provided by Rahul to complete assignment
