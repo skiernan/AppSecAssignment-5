@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         try {
             url = new URL(SPELL_CHECK_URL + "metrics"
                     +"?lat="
-                    +location.getLatitude()+"&long=" + location.getLongitude()
+                   // +location.getLatitude()+"&long=" + location.getLongitude()
             );
         } catch (MalformedURLException e) {
             e.printStackTrace();
